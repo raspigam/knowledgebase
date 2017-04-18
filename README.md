@@ -7,3 +7,8 @@ Here we collect e.g. trouble-shooting guides and things we would like to share t
 An other good example of things we would like to collect here are ideas for or notes on educational content.
 
 For generic Raspberry Pi help you can also browse through the topics at https://github.com/raspberrypi/documentation
+
+## Contents
+
+- [Troubleshooting](troubleshooting/README.md)
+    - Troubleshooting guides and tips for your Raspberry Pi
