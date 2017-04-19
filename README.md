@@ -12,5 +12,5 @@ For generic Raspberry Pi help you can also browse through the topics at https://
 
 - [Troubleshooting](troubleshooting/README.md)
     - Troubleshooting guides and tips for your Raspberry Pi
-- [Network](network/README.md)
-    - Networking information, on e.g. internet access
+- [Infrastructure](infrastructure/README.md)
+    - Information on setting up the computing infrastructure in the computer lab, e.g. internet access
