@@ -14,3 +14,5 @@ For generic Raspberry Pi help you can also browse through the topics at https://
     - Troubleshooting guides and tips for your Raspberry Pi
 - [Infrastructure](infrastructure/README.md)
     - Information on setting up the computing infrastructure in the computer lab, e.g. internet access
+- [Opportunities](opportunities/README.md)
+    - A list of descriptions of opportunities as we discover them in our use of the Raspberry Pi
