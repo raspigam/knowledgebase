@@ -1,7 +1,7 @@
 # Opportunities in working with the Raspberry Pi computer
 
 In the list below we collect descriptions of opportunities as we encounter them in our use of the Raspberry Pi computer.
-Initially it will be a quite raw and unordered - we can clean it up and categorise later as it grows.
+Initially it will be quite raw and unordered - we can clean it up and categorise later as it grows.
 
 ## International collaboration
 
@@ -24,3 +24,10 @@ maintained constraints, for use in wood working or 3D printing.
 The General Purpose IO (GPIO) port (pin header) of the Raspberry Pi allows for hooking up electronics to extend the functionality
 of the computer, e.g. adding a battery module serving as UPS, adding sensors for use in agriculture, connecting up buttons to
 create a setup without the need of a keyboard...etc.
+
+## Authoring and facilitating educational content
+
+Using web technologies even off-line we can start creating original educational content to support the school curriculum and build
+a computing curriculum. Senior students might help teachers/authors in its development by converting the content into web form.
+Pupils could be asked to perform an assignment on the Raspberry Pi, reducing the need for printing and paper, while making the
+administrative part (calculating, collecting and storing grades) easier for teachers.
