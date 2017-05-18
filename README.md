@@ -18,6 +18,6 @@ For generic Raspberry Pi help you can also browse through the topics at https://
     - A list of descriptions of opportunities as we discover them in our use of the Raspberry Pi
 - [Technologies](technologies/README.md)
     - A list of technologies as we encounter them in our project and use of the Raspberry Pi
-- [Apps](apps/README.me)
+- [Apps](apps/README.md)
     - You'll find instructions on how to install and remove apps, and a list of applications we use and/or recommend
  
