@@ -16,7 +16,10 @@ is well suited for use on the Raspberry Pi, you can install it as follows:
 
 ## Removing software (apps)
 
-## Apps we use
+Removal of sofware works similarly, only now the command is e.g. `sudo apt remove audacity` (`remove` instead of `install`) if
+you'd like to remove the Audacity application.
+
+## Apps we use / recommend
 
 ### Chromium
 
