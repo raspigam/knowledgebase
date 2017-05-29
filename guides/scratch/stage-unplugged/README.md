@@ -1,4 +1,4 @@
-# The Scratch Stage on screen and unplugged
+# Using tindex.htmlhe Scratch Stage on screen and unplugged
 
 ![](./01.jpg)*1* Select the "shrink" tool.
 ![](./02.jpg)*2* Click on the sprite to shrink it.
