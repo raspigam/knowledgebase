@@ -6,7 +6,7 @@
     * [Making screen shots](guides/making-screen-shots.md)
     * [Opening a terminal window](guides/open-terminal.md)
     * [Downsampling images](guides/downsampling-images.md)
-    * [Using the Scratch Stage on screen and unplugged](guides/scratch/stage-unplugged/index.html)
+    * [Using the Scratch Stage on screen and unplugged](guides/scratch/stage-unplugged/README.md)
 * [Troubleshooting](troubleshooting/README.md)
 * [Infrastructure](infrastructure/README.md)
 * [Opportunities](opportunities/README.md)
