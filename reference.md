@@ -28,6 +28,8 @@
 
 * Solar power projects in The Gambia
   * http://buildingfuturesinthegambia.com/solar2.html
+* Very low cost console running on a battery cell, e.g. salvaged from a laptop battery pack
+  * http://www.instructables.com/id/20-Portable-Raspberry-Pi-Game-Console
 
 ## Links on crafting Raspberry Pi cases
 
