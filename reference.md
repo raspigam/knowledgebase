@@ -38,4 +38,5 @@
 * http://s642.photobucket.com/user/Jimmy4949/library/Raspberry%20Pi?sort=3&page=1
 * http://www.geeky-gadgets.com/awesome-wooden-retro-arcade-cabinet-powered-by-raspberry-pi-05-08-2016/
 * https://boingboing.net/2016/08/24/beautiful-wooden-shell-thingy.html
+* http://www.htxt.co.za/2017/04/04/tired-of-the-nintendo-switch-already-check-out-this-portable-console-made-out-of-wood/
 
