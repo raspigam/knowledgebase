@@ -28,3 +28,9 @@
 
 * Solar power projects in The Gambia
   * http://buildingfuturesinthegambia.com/solar2.html
+
+## Links on crafting Raspberry Pi cases
+
+* https://www.raspberrypi.org/blog/wooden-tablet-michael-castors-pipad
+* Chestnut wooden case (I lost the link, surprisingly hard to find)
+* http://s642.photobucket.com/user/Jimmy4949/library/Raspberry%20Pi?sort=3&page=1
