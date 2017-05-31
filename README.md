@@ -1,4 +1,4 @@
-# Knowledge base for using the Raspberry Pi in The Gambia
+# Knowledge base for using the Raspberry Pi computer in The Gambia
 
 Welcome to the knowledge base of our RasPiGam \(Raspberry Pi Gambia\) project!
 
