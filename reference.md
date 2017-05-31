@@ -1,8 +1,30 @@
 # Reference
 
-For context and inspiration.
+## Context and inspiration
 
 * https://www.raspberrypi.org
 * https://drtechniko.com
 * http://csunplugged.org
-* ..
+
+## Interesting Raspberry Pi projects for / in The Gambia
+
+* Gambian Ministry of Basic and Secondary Education (MoBSE) Team on a Study Visit to OLE Ghana
+  * http://ghanareads.oleghana.org/?p=3105
+* "WaterScope - bringing fast, cheap and reliable water-testing kits to local communities in India and Gambia using a raspberry pi and a 3d printer"
+  * http://www.nominettrust.org.uk/news-events/news/nominet-trust-unveils-100-2016%E2%80%99s-most-inspiring-examples-tech-good
+* https://desertification.wordpress.com/2015/04/29/raspberry-pi-hardware-kit-for-students-to-build-their-own-weather-station
+* http://gambiahelp.org/videogriot-educational-videos-for-the-gambian-people
+
+## Other projects in The Gambia
+
+* http://sandringham.herts.sch.uk/making-progress-on-next-development-at-farafenni-senior-school-the-gambia
+
+## Links on internet access
+
+* http://www.techrepublic.com/article/white-space-the-next-internet-disruption-10-things-to-know
+  * http://www.whitespacealliance.org
+
+## Links on power supply
+
+* Solar power projects in The Gambia
+  * http://buildingfuturesinthegambia.com/solar2.html
