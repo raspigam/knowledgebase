@@ -26,7 +26,48 @@ I could not find out so far how to get to these downloads from the main https://
 
 ```
 $ ./configure
+checking for path to top of build tree...
 ...
-$ make install
+checking for ranlib... ranlib
+configure: creating ./config.status
+config.status: creating settings
+config.status: creating mk/config.mk
+config.status: creating mk/install.mk
+****************************************************
+Configuration done, ready to 'make install'
+(see README and INSTALL files for more info.)
+****************************************************
+```
+
+Note that the INSTALL readme mentions the availability of a `make show-install-setup` which seems not true, I should ask the Haskell packagers. Performing `make install` requires [sudo rights](run-with-sudo.md).
+
+```
+$ sudo make install
+make --no-print-directory -f ghc.mk install BINDIST=YES NO_INCLUDE_DEPS=YES
+/usr/bin/install -c -m 755 -d "/usr/local/bin"
+"rm" -f                                 "/usr/local/bin/ghci-8.0.1"  
+create () { touch "$1" && chmod 755 "$1" ; } && create                                   "/usr/local/bin/ghci-8.0.1"
 ...
+Registering ghc-8.0.1...
+for f in '/usr/local/lib/ghc-8.0.1/package.conf.d'/*; do create () { touch "$1" && chmod 644 "$1" ; } && create "$f"; done
+/usr/bin/install -c -m 755 -d "/usr/local/bin"
+for i in utils/hp2ps/dist/build/tmp/hp2ps; do \
+	/usr/bin/install -c -m 755  $i "/usr/local/bin" ;  \
+done
+/usr/bin/install -c -m 755 -d "/usr/local/lib/ghc-8.0.1/bin"
+for i in inplace/lib/bin/ghc-split; do \
+	/usr/bin/install -c -m 755  $i "/usr/local/lib/ghc-8.0.1/bin"; \
+done
+/usr/bin/install -c -m 755 -d "/usr/local/share/doc/ghc-8.0.1"
+/usr/bin/install -c -m 755 -d "/usr/local/share/doc/ghc-8.0.1/html"
+/usr/bin/install -c -m 644  docs/index.html "/usr/local/share/doc/ghc-8.0.1/html"
+/usr/bin/install -c -m 755 -d "/usr/local/share/doc/ghc-8.0.1/html/libraries"
+for i in libraries/dist-haddock/*; do \
+	/usr/bin/install -c -m 644  $i "/usr/local/share/doc/ghc-8.0.1/html/libraries/"; \
+done
+/usr/bin/install -c -m 644  libraries/prologue.txt "/usr/local/share/doc/ghc-8.0.1/html/libraries/"
+/usr/bin/install -c -m 755  libraries/gen_contents_index "/usr/local/share/doc/ghc-8.0.1/html/libraries/"
+for i in utils/haddock/doc/haddock docs/users_guide/build-html/users_guide; do \
+	cp -Rp $i "/usr/local/share/doc/ghc-8.0.1/html"; \
+done
 ```
