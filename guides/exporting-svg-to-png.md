@@ -9,3 +9,5 @@ For instance, if you downloaded the Knock Knock project at https://scratch.mit.e
 ```
 $ inkscape -z -e Scratch/Knock\ Knock/1.png -d 90 Scratch/Knock\ Knock/1.svg
 ```
+
+PS: Actually, if you look in the File menu of Scratch 1.4, you see an `Import Project` option...this works on `.sb2` files, saving you the work of the conversion.
