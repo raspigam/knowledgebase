@@ -51,3 +51,12 @@ Raspberry Pi-based affordable DNA image analyser that could help detect genes th
 <img src="https://www.raspberrypi.org/magpi/wp-content/uploads/2016/11/nugenius2.jpg" alt="Raspberry Pi-based DNA image analyser" width="200">
 
 * https://www.raspberrypi.org/magpi/raspberry-pi-medicine
+
+### Logistics, transport and navigation (2017-08)
+
+GPS tracking and speed meter for naval use, based on the Raspberry Pi Zero W:
+
+<img src="https://www.raspberrypi.org/magpi/wp-content/uploads/2017/08/Installed.jpg" alt="GPS tracking device and speed display, based on RPi Zero W" width="200">
+
+* https://www.raspberrypi.org/magpi/sailing-pi-gps-tracking
+
