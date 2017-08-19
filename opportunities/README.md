@@ -60,3 +60,10 @@ GPS tracking and speed meter for naval use, based on the Raspberry Pi Zero W:
 
 * https://www.raspberrypi.org/magpi/sailing-pi-gps-tracking
 
+### Precision-farming
+
+Raspberry Pi-based open-source CNC farming machine:
+
+<img src="https://farmbot.io/wp-content/uploads/2016/01/943962_979991568755937_6771329722782099719_n.jpg" alt="FarmBot can be run off-grid with small solar power and rain collection systems" width="200">
+
+* https://farmbot.io
