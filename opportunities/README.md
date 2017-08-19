@@ -35,9 +35,19 @@ Enclosures for the Raspberry Pi computer and its peripherals \(e.g. screen\) cou
 
 ### Computer controlled wood burner (2017-08-06)
 
+<img src="http://www.recantha.co.uk/blog/wp-content/uploads/2017/08/cnc_burner.jpg" alt="Burn beautiful images onto wood" width="200">
+
 * http://imgur.com/gallery/ATy69
 * http://www.recantha.co.uk/blog/?p=17459
 
-<img src="http://www.recantha.co.uk/blog/wp-content/uploads/2017/08/cnc_burner.jpg" alt="Burn beautiful images onto wood" width="200">
+### Medical devices (2016-12)
 
+Heart failure patients show their feet to this Raspberry Pi-based computer vision analysis and reporting device:
 
+<img src="https://www.raspberrypi.org/magpi/wp-content/uploads/2016/11/Heartfelt1.jpg" alt="Raspberry Pi-based computer vision analysis and reporting device" width="200">
+
+Raspberry Pi-based affordable DNA image analyser that could help detect genes that cause diseases such as cancer:
+
+<img src="https://www.raspberrypi.org/magpi/wp-content/uploads/2016/11/nugenius2.jpg" alt="Raspberry Pi-based DNA image analyser" width="200">
+
+* https://www.raspberrypi.org/magpi/raspberry-pi-medicine
