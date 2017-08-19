@@ -67,3 +67,4 @@ Raspberry Pi-based open-source CNC farming machine:
 <img src="https://farmbot.io/wp-content/uploads/2016/01/943962_979991568755937_6771329722782099719_n.jpg" alt="FarmBot can be run off-grid with small solar power and rain collection systems" width="200">
 
 * https://farmbot.io
+* also found on http://farmhack.org/tools, site of a great initiative with a library of open source "hacks" of farming equipment, such as a bicycle powered (rice/wheat etc) thresher
