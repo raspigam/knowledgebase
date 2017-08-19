@@ -31,5 +31,13 @@ Using (off-line or locally networked) web technology we can create extra trainin
 
 Enclosures for the Raspberry Pi computer and its peripherals \(e.g. screen\) could be locally crafted.
 
+## Inspiring projects found online
+
+### Computer controlled wood burner (2017-08-06)
+
+* http://imgur.com/gallery/ATy69
+* http://www.recantha.co.uk/blog/?p=17459
+
+<img src="http://www.recantha.co.uk/blog/wp-content/uploads/2017/08/cnc_burner.jpg" alt="Burn beautiful images onto wood" width="200">
 
 
