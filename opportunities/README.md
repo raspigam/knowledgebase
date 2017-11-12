@@ -40,7 +40,14 @@ Enclosures for the Raspberry Pi computer and its peripherals \(e.g. screen\) cou
 * http://imgur.com/gallery/ATy69
 * http://www.recantha.co.uk/blog/?p=17459
 
-### Medical devices (2016-12)
+### Medical devices
+
+Using the Raspberry Pi as its computing and display platform, the HealthyPi add-on HAT turns the Raspberry Pi into a vital sign monitoring system.
+
+<img src="https://raw.githubusercontent.com/Protocentral/protocentral-healthypi-v3/master/docs/images/hpi3-with-display.jpg" alt="HealthyPi add-on" width="200">
+
+* https://hackaday.io/project/25380-connected-health-open-source-iot-patient-monitor
+* https://github.com/Protocentral/protocentral-healthypi-v3
 
 Heart failure patients show their feet to this Raspberry Pi-based computer vision analysis and reporting device:
 
