@@ -22,3 +22,6 @@ The Raspberry Pi configuration demonstrated in Sanyang April 2017 uses a UPS boa
 On the GitHub pages of Rob Jones (Craic Computing) at https://github.com/craic/pi_power one can find quite detailed plans on how to create a low cost power management solution.
 
 An alternative approach, starting from the simplest working electronics solution possible, is shown at http://homediyelectronics.com/projects/raspberrypi/ups.
+
+https://hackaday.io/project/25116-single-cell-li-ion-powered-ups-for-raspberry-pi
+
